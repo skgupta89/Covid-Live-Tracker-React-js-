@@ -1,0 +1,67 @@
+.dataContainer{
+    margin: 5% 10%;
+    width: 80%;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    /* flex-wrap: wrap; */
+    /* flex-wrap: wrap; */
+  
+ 
+}
+
+.country{
+    text-align: center;
+    background-color: blue;
+    width: 15vw;
+    height: 20vh;
+}
+
+.head p ,h1{
+    color: white;
+}
+
+.head p{
+font-size: 1vw;
+font-weight: bold;
+}
+.head p span{
+font-size: 0.8vw;
+font-weight: bold;
+}
+.recover{
+    text-align: center;
+    background-color: green;
+    width: 15vw;
+    height: 20vh; 
+}
+.confirm{
+    text-align: center;
+    background-color: orange;
+    width: 15vw;
+    height: 20vh; 
+}
+.death{
+    text-align: center;
+    background-color: red;
+    width: 15vw;
+    height: 20vh; 
+}
+.active{
+    text-align: center;
+    background-color:lightcoral;
+    width: 15vw;
+    height: 20vh; 
+}
+.update{
+    text-align: center;
+    background-color: lightseagreen;
+    width: 15vw;
+    height: 20vh; 
+}
+
+.div{
+    margin-right: 2vw;
+}
+
